@@ -64,9 +64,9 @@ const Sidebar = () => {
     >
       <Box paddingY="10px" height="100%" display="flex" flexDirection="column">
         <Box width="200px" marginBottom="20px" paddingX="20px">
-          <NextImage src="/endian.png" height={150} width={150} />
+          <NextImage src="/endian.png" height={180} width={180} />
         </Box>
-        <Box marginBottom="20px">
+        <Box marginBottom="15px">
           <List spacing={2}>
             {navMenu.map((menu) => (
               <ListItem paddingX="20px" fontSize="16px" key={menu.name}>

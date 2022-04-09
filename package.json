@@ -13,6 +13,8 @@
     "@dh-react-hooks/use-raf": "^0.9.1",
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
+    "@fontsource/open-sans": "^4.5.8",
+    "@fontsource/raleway": "^4.5.5",
     "@prisma/client": "^3.6.0",
     "bcrypt": "^5.0.1",
     "cookie": "^0.4.1",
